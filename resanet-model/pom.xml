@@ -6,9 +6,8 @@
 
   <groupId>com.zenika.formation</groupId>
   <artifactId>resanet-model</artifactId>
-  <version>1.0-SNAPSHOT</version>
-
   <name>resanet-model</name>
+
 
   <parent>
     <groupId>com.zenika.formation</groupId>
