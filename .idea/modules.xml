@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/resanet.iml" filepath="$PROJECT_DIR$/.idea/resanet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resanet-model/resanet-model.iml" filepath="$PROJECT_DIR$/resanet-model/resanet-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resanet-tools/resanet-tools.iml" filepath="$PROJECT_DIR$/resanet-tools/resanet-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resanet-web/resanet-web.iml" filepath="$PROJECT_DIR$/resanet-web/resanet-web.iml" />
     </modules>
   </component>
 </project>

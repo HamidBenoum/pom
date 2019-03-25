@@ -3,6 +3,7 @@ package com.zenika.formation;
 
 import junit.framework.TestCase;
 import org.apache.log4j.Logger;
+import org.junit.Assert;
 
 
 /**
@@ -16,8 +17,7 @@ public class AppTest extends TestCase {
      */
 
     public void testApp() {
-        LOGGER.debug("Welcome to Zenika !");
-        assertTrue( true );
+        Assert.assertEquals("test1", "test2");
     }
     
 }
